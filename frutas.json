@@ -1,0 +1,5 @@
+[
+   { "nombre":"Manzana" , "unidades":10 }, 
+   { "nombre":"Pera" , "unidades":20 }, 
+   { "nombre":"Naranja" , "unidades":30 }
+]
